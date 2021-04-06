@@ -12,7 +12,11 @@
 .count {
 	font-size: 60px;
 }
-
+.text {
+	font-size: 40px;
+	color: rgb(31, 2, 48);
+	font-weight: bold;
+}
 .button {
 	background-color: #c4a9e4;
 	border: none;
@@ -24,7 +28,7 @@
 	height: 70px;
 	margin: 20px;
 	padding: 2px;
-	width: 170px;
+	width: 150px;
 	font-size: 40px;
 	text-align: center;
   }

@@ -1,15 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Purple Cow
+
+# Requirements:
 
 ### Port
 
-Web App to be Served on the Following Port: 3000
+Web App to be Served on the Following Port: 3000.
 
-### Assumptions
-NO DB: Needed functionality is accomplished with just the CountApi. 
-
-## Available Scripts
-
-In the project directory, you can run:
+## Runs Localy with a single startup command 
 
 ### `npm install`
 Downloads the necessary dependencies to run your app.
@@ -19,6 +16,17 @@ Downloads the necessary dependencies to run your app.
 Runs the app in the development mode.<br />
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## Future updates
+The same functionality could be used to count instances of covid cases, 
+If each zipcode has a key, we will be able to track the amount of covid cases in each zipcode. we can also track crime rates in different zipcodes.
+
+### Assumptions
+NO DB: Needed functionality is accomplished with just the CountApi. 
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm test`
 

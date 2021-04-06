@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className= {style.body}>
-      <p>Number Of Hits</p>
+      <p className= {style.text}>Number Of Hits</p>
      <div className= {style.count}>{count}</div>
      <button onClick={incrementCount} className={style.button}>Hit</button>
     </div>
